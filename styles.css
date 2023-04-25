@@ -6,9 +6,9 @@ body {
     margin: 0;
     text-align: center;
     color: #fff;
-    background: linear-gradient(135deg, #fcff4b, #c529d0);
+    background: linear-gradient(45deg, #ff6161,  #a2d337, #7650ff, #7f24ff);
     background-size: 400% 400%;
-    animation: gradient-bg 5s ease-in-out infinite;
+    animation: gradient-bg 10s ease-in-out infinite;
   }
   
   header {
