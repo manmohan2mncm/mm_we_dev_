@@ -6,7 +6,7 @@ body {
     margin: 0;
     text-align: center;
     color: #fff;
-    background: linear-gradient(120deg, #ff4343,  #c9da37, #7b5aff, #52ae36);
+    background: linear-gradient(120deg, #ff4343,  #edff49, #152a0e, #691a5d);
     background-size: 400% 400%;
     animation: gradient-bg 5s ease-in-out infinite;
   }
@@ -87,7 +87,7 @@ body {
     }
   }
   
-  body {
+  /* body {
     height: 100vh;
     font-family: Arial, sans-serif;
     font-size: 1.6rem;
@@ -98,7 +98,7 @@ body {
     background: linear-gradient(120deg, #ff4343,  #c9da37, #7b5aff, #52ae36);
     background-size: 400% 400%;
     animation: gradient-bg 5s ease-in-out infinite;
-  }
+  } */
   
   header {
     color: #fff;
