@@ -6,9 +6,9 @@ body {
     margin: 0;
     text-align: center;
     color: #fff;
-    background: linear-gradient(45deg, #ff6161,  #a2d337, #7650ff, #7f24ff);
+    background: linear-gradient(120deg, #ff4343,  #c9da37, #7b5aff, #52ae36);
     background-size: 400% 400%;
-    animation: gradient-bg 10s ease-in-out infinite;
+    animation: gradient-bg 5s ease-in-out infinite;
   }
   
   header {
@@ -68,7 +68,7 @@ body {
   
   @keyframes gradient-bg {
     0% {
-      background-position: 0% 50%;
+      background-position: 0% 60%;
     }
     50% {
       background-position: 100% 50%;
